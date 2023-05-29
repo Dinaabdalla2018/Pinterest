@@ -35,3 +35,8 @@ To view reports, click on the "Reports" button and select the type of report to 
 
 ## Demo
 Some Screen shot from project
+![Signup](https://github.com/Dinaabdalla2018/Pinterest/blob/main/demo/Signup.png)
+![login](https://github.com/Dinaabdalla2018/Pinterest/blob/main/demo/login.png)
+![pin](https://github.com/Dinaabdalla2018/Pinterest/blob/main/demo/pin.png)
+![createpin](https://github.com/Dinaabdalla2018/Pinterest/blob/main/demo/createpin.png)
+![createboard](https://github.com/Dinaabdalla2018/Pinterest/blob/main/demo/createBoard%20(2).png)
