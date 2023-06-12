@@ -40,3 +40,9 @@ Some Screen shot from project
 ![pin](https://github.com/Dinaabdalla2018/Pinterest/blob/main/demo/pin.png)
 ![createpin](https://github.com/Dinaabdalla2018/Pinterest/blob/main/demo/createpin.png)
 ![createboard](https://github.com/Dinaabdalla2018/Pinterest/blob/main/demo/createBoard%20(2).png)
+
+![Screenshot1](https://github.com/Dinaabdalla2018/Pinterest/blob/main/demo/received_175030830270318.webp)
+![Screenshot2](https://github.com/Dinaabdalla2018/Pinterest/blob/main/demo/received_182263572761395.webp)
+![Screenshot3](https://github.com/Dinaabdalla2018/Pinterest/blob/main/demo/received_227103941687219.webp)
+![Screenshot4](https://github.com/Dinaabdalla2018/Pinterest/blob/main/demo/received_241679567197074.webp)
+![Screenshot5](https://github.com/Dinaabdalla2018/Pinterest/blob/main/demo/received_524515218204266.webp)
